@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1180" viewBox="0 0 900 1180">
+  <defs>
+    <style>
+      .t{font-family:Arial,Helvetica,sans-serif;fill:#1f2937}
+      .m{font-family:'Noto Sans Devanagari',Arial,sans-serif;fill:#1f2937}
+      .h{font-weight:700}
+      .small{font-size:13px}
+      .lbl{font-size:12px;fill:#64748b;letter-spacing:.08em;text-transform:uppercase}
+    </style>
+  </defs>
+  <rect width="900" height="1180" fill="#f6f2e8"/>
+  <rect x="24" y="24" width="852" height="1132" fill="#fffdf7" stroke="#c9b98f" stroke-width="2"/>
+  <rect x="24" y="24" width="852" height="104" fill="#14532d"/>
+  <text x="60" y="72" fill="#fff" class="h t" font-size="26">गाव नमुना ७/१२ — Record of Rights (7/12)</text>
+  <text x="60" y="103" fill="#d1fae5" class="t" font-size="15">Government of Maharashtra · Land Records Department · DEMO SAMPLE</text>
+  <text x="806" y="70" fill="#a7f3d0" class="t" font-size="13" text-anchor="end">वर्ष / Year</text>
+  <text x="806" y="96" fill="#fff" class="h t" font-size="20" text-anchor="end">2025-26</text>
+  <text x="60" y="164" class="lbl t">Village / तालुका जिल्हा</text>
+  <text x="60" y="190" class="h t" font-size="19">Parbhani, Parbhani, Parbhani</text>
+  <text x="478" y="164" class="lbl t">Survey / Gat Number</text>
+  <text x="478" y="190" class="h t" font-size="19">118 / 2</text>
+  <text x="700" y="164" class="lbl t">ULPIN</text>
+  <text x="700" y="188" class="t small">MH-PBN-2026-0118-0002-0001</text>
+  <line x1="60" y1="212" x2="840" y2="212" stroke="#d6c9a6"/>
+  <text x="60" y="244" class="lbl t">Owner / धारक</text>
+  <text x="60" y="270" class="h t" font-size="18">Demo Owner A · Demo Owner B</text>
+  <text x="60" y="296" class="t small">Share: Owner A 60% · Owner B 40%</text>
+  <text x="478" y="244" class="lbl t">Area / क्षेत्र</text>
+  <text x="478" y="270" class="h t" font-size="18">1,000 m² (0.10 ha)</text>
+  <text x="700" y="244" class="lbl t">Land use / वापर</text>
+  <text x="700" y="270" class="h t" font-size="18">Agricultural</text>
+  <rect x="60" y="330" width="780" height="520" fill="#fff" stroke="#d6c9a6"/>
+  <text x="82" y="362" class="h t" font-size="15">खाते उतारा / Ownership register</text>
+  <g class="t small">
+    <rect x="60" y="380" width="780" height="34" fill="#ecfdf5"/>
+    <text x="82" y="402" class="h">Sr.</text><text x="132" y="402" class="h">Holder / धारक</text><text x="430" y="402" class="h">Share</text><text x="550" y="402" class="h">Mutation / फेरफार</text><text x="720" y="402" class="h">Year</text>
+    <line x1="60" y1="414" x2="840" y2="414" stroke="#e2e8f0"/>
+    <text x="82" y="442">1</text><text x="132" y="442">Demo Owner A</text><text x="430" y="442">0.600</text><text x="550" y="442">Inheritance (sample)</text><text x="720" y="442">2019</text>
+    <line x1="60" y1="460" x2="840" y2="460" stroke="#e2e8f0"/>
+    <text x="82" y="488">2</text><text x="132" y="488">Demo Owner B</text><text x="430" y="488">0.400</text><text x="550" y="488">Sale deed (sample)</text><text x="720" y="488">2021</text>
+    <line x1="60" y1="506" x2="840" y2="506" stroke="#e2e8f0"/>
+    <text x="132" y="534" font-weight="700">Total</text><text x="430" y="534" font-weight="700">1.000</text>
+  </g>
+  <text x="82" y="582" class="h t" font-size="15">जमीन वर्गवारी / Land classification</text>
+  <g class="t small">
+    <text x="82" y="612">Cultivable land: 1,000 m²</text>
+    <text x="430" y="612">Irrigation: Rain-fed (sample)</text>
+    <text x="82" y="640">Crop (Kharif): Soybean / Cotton</text>
+    <text x="430" y="640">Assessment: ₹ 12.50 (sample)</text>
+    <text x="82" y="668">Tenant / Other rights: None recorded</text>
+  </g>
+  <rect x="60" y="700" width="380" height="118" fill="#fffbeb" stroke="#f59e0b"/>
+  <text x="82" y="730" class="h t" font-size="14" fill="#92400e">Other rights / इतर हक्क</text>
+  <text x="82" y="756" class="t small">Bank charge entry (sample): none</text>
+  <text x="82" y="778" class="t small">Encumbrance: not verified in prototype</text>
+  <text x="82" y="800" class="t small">Soil: Medium black (sample)</text>
+  <rect x="460" y="700" width="380" height="118" fill="#eff6ff" stroke="#93c5fd"/>
+  <text x="482" y="730" class="h t" font-size="14" fill="#1d4ed8">Digitization note</text>
+  <text x="482" y="756" class="t small">Field boundaries are illustrative.</text>
+  <text x="482" y="778" class="t small">OCR confidence: 89–97% per field.</text>
+  <text x="482" y="800" class="t small">Manual verification required for area.</text>
+  <rect x="60" y="870" width="780" height="150" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="82" y="900" class="h t" font-size="14">स्वाक्षरी / Signatures</text>
+  <text x="82" y="932" class="t small">Talathi (Village Accountant): ____________________</text>
+  <text x="460" y="932" class="t small">Naib Tahsildar: ____________________</text>
+  <text x="82" y="970" class="t small">Date: 14 / 02 / 2026</text>
+  <text x="460" y="970" class="t small">Place: Parbhani</text>
+  <text x="82" y="1000" class="t small" fill="#64748b">This document is a synthetic sample generated for the BHŪMI 3D hackathon prototype. It is not a government-issued record.</text>
+  <rect x="60" y="1044" width="780" height="64" fill="#052e16"/>
+  <text x="82" y="1072" fill="#fff" class="t" font-size="14">BHŪMI 3D · Document intake sample</text>
+  <text x="82" y="1094" fill="#a7f3d0" class="t" font-size="12">SHA-256 integrity hash recorded on upload · OCR extraction available</text>
+  <text x="816" y="1078" fill="#86efac" class="t" font-size="11" text-anchor="end">DEMO ONLY</text>
+</svg>

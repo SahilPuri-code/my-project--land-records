@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000">
+  <defs><style>.t{font-family:Arial,sans-serif;fill:#1f2937}.h{font-weight:700}</style></defs>
+  <rect width="900" height="1000" fill="#eef2f7"/>
+  <rect x="30" y="30" width="840" height="940" fill="#fff" stroke="#94a3b8" stroke-width="2"/>
+  <rect x="30" y="30" width="840" height="88" fill="#14532d"/>
+  <text x="64" y="72" fill="#fff" class="h t" font-size="24">खसरा / Khasra Record — DEMO</text>
+  <text x="64" y="99" fill="#d1fae5" class="t" font-size="13">Sample digitization intake · not a government record</text>
+  <text x="64" y="170" class="h t" font-size="18">Khasra 123/4 · Parbhani</text>
+  <g class="t" font-size="14">
+    <text x="64" y="216">Owner</text><text x="300" y="216" class="h">Demo Owner H · Demo Owner I</text>
+    <text x="64" y="246">Recorded area</text><text x="300" y="246">950 m²</text>
+    <text x="64" y="276">Land use</text><text x="300" y="276">Agricultural</text>
+    <text x="64" y="306">Record year</text><text x="300" y="306">2026</text>
+  </g>
+  <rect x="64" y="344" width="772" height="250" fill="#f8fafc" stroke="#cbd5e1"/>
+  <text x="86" y="378" class="h t" font-size="15">Scan quality note</text>
+  <text x="86" y="410" class="t" font-size="13">This sample intentionally simulates a low-quality scan.</text>
+  <text x="86" y="438" class="t" font-size="13">OCR confidence for several fields falls below 75%.</text>
+  <text x="86" y="466" class="t" font-size="13">A manual verification step is required before acceptance.</text>
+  <text x="86" y="506" class="t" font-size="13" fill="#b45309">Fields affected: owner, area, land use, share, village, year.</text>
+  <text x="86" y="548" class="t" font-size="12" fill="#64748b">Demonstration sample · BHŪMI 3D</text>
+  <rect x="64" y="640" width="772" height="150" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="86" y="674" class="h t" font-size="14">Manual entry fallback</text>
+  <text x="86" y="704" class="t" font-size="13">When OCR confidence is low, the review table stays editable.</text>
+  <text x="86" y="732" class="t" font-size="13">No field is accepted silently. The user must confirm corrections.</text>
+  <text x="86" y="760" class="t" font-size="13">Confidence values are preserved for audit.</text>
+  <text x="64" y="860" class="t" font-size="12" fill="#64748b">Synthetic demo document generated for BHŪMI 3D. Not government-issued.</text>
+</svg>

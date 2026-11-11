@@ -115,3 +115,7 @@ $RECYCLE.BIN/
 .ideavo/project
 # next-agents-md
 .next-docs/
+
+# runtime demo data
+/data/
+/uploads/

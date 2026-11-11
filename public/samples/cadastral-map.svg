@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="720" viewBox="0 0 1000 720">
+  <defs><style>.t{font-family:Arial,sans-serif;fill:#1e293b}.h{font-weight:700}</style></defs>
+  <rect width="1000" height="720" fill="#f1f5f9"/>
+  <text x="40" y="52" class="h t" font-size="22">Cadastral Map — Parbhani (ILLUSTRATIVE)</text>
+  <text x="40" y="76" class="t" font-size="13" fill="#64748b">Village Parbhani · Sheet 14 · Not a legally surveyed boundary</text>
+  <g transform="translate(40,100)">
+    <rect width="920" height="560" fill="#fefce8" stroke="#ca8a04"/>
+    <g stroke="#a16207" stroke-width="1" opacity=".35">
+      <path d="M0 80 H920 M0 160 H920 M0 240 H920 M0 320 H920 M0 400 H920 M0 480 H920"/>
+      <path d="M80 0 V560 M160 0 V560 M240 0 V560 M320 0 V560 M400 0 V560 M480 0 V560 M560 0 V560 M640 0 V560 M720 0 V560 M800 0 V560 M880 0 V560"/>
+    </g>
+    <g stroke="#ca8a04" stroke-width="2" opacity=".5">
+      <path d="M0 400 C160 360 280 430 440 380 S720 340 920 380" fill="none"/>
+      <path d="M120 0 C160 140 100 260 170 400 S200 500 180 560" fill="none"/>
+    </g>
+    <polygon points="90,110 300,118 306,282 110,290" fill="#bbf7d0" stroke="#15803d" stroke-width="3"/>
+    <text x="150" y="190" class="h t" font-size="22">119/1</text>
+    <text x="150" y="214" class="t" font-size="13">2,400 m² · Agri</text>
+    <polygon points="360,110 560,120 556,280 372,286" fill="#bbf7d0" stroke="#15803d" stroke-width="3"/>
+    <text x="420" y="190" class="h t" font-size="22">118/2</text>
+    <text x="420" y="214" class="t" font-size="13">1,060 m² · Agri</text>
+    <polygon points="620,110 860,120 852,300 628,290" fill="#fecaca" stroke="#dc2626" stroke-width="3"/>
+    <text x="686" y="190" class="h t" font-size="22">120/3</text>
+    <text x="686" y="214" class="t" font-size="13">2,100 m² · overlap</text>
+    <polygon points="360,360 560,368 552,510 370,516" fill="#dbeafe" stroke="#2563eb" stroke-width="3"/>
+    <text x="418" y="440" class="h t" font-size="22">121/2</text>
+    <text x="418" y="464" class="t" font-size="13">1,500 m² · Agri</text>
+    <polygon points="620,360 860,366 854,510 624,516" fill="#e9d5ff" stroke="#7e22ce" stroke-width="3"/>
+    <text x="688" y="440" class="h t" font-size="22">122/1</text>
+    <text x="688" y="464" class="t" font-size="13">3,200 m² · Abadi</text>
+    <polygon points="90,360 300,366 292,510 96,516" fill="#bbf7d0" stroke="#15803d" stroke-width="3"/>
+    <text x="146" y="440" class="h t" font-size="22">123/4</text>
+    <text x="146" y="464" class="t" font-size="13">950 m² · Agri</text>
+    <polygon points="90,540 300,544 296,556 94,558" fill="#fde68a" stroke="#b45309"/>
+    <text x="620" y="548" class="t" font-size="12" fill="#78350f">Survey reference line — demo only</text>
+  </g>
+  <text x="40" y="696" class="t" font-size="12" fill="#64748b">BHŪMI 3D demo cadastral map · Polygon positions are synthetic and do not represent real Parbhani parcels.</text>
+</svg>

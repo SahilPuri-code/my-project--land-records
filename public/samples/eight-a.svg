@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000">
+  <defs><style>.t{font-family:Arial,sans-serif;fill:#1f2937}.h{font-weight:700}</style></defs>
+  <rect width="900" height="1000" fill="#f5f0e4"/>
+  <rect x="30" y="30" width="840" height="940" fill="#fffdf6" stroke="#c9b98f" stroke-width="2"/>
+  <rect x="30" y="30" width="840" height="88" fill="#0f172a"/>
+  <text x="64" y="72" fill="#fff" class="h t" font-size="24">गाव नमुना ८-अ — 8A Extract (DEMO)</text>
+  <text x="64" y="99" fill="#cbd5e1" class="t" font-size="13">Parbhani · Parbhani · Maharashtra · sample only</text>
+  <text x="64" y="166" class="h t" font-size="17">Survey 121/2 · ULPIN MH-PBN-2026-0121-0002-0001</text>
+  <g class="t" font-size="14">
+    <text x="64" y="214">Owner</text><text x="300" y="214" class="h">Demo Owner E · Demo Owner F</text>
+    <text x="64" y="244">Recorded area</text><text x="300" y="244">1,500 m²</text>
+    <text x="64" y="274">Land use</text><text x="300" y="274">Agricultural</text>
+    <text x="64" y="304">Record year</text><text x="300" y="304">2025-26</text>
+  </g>
+  <rect x="64" y="340" width="772" height="260" fill="#fff" stroke="#d6c9a6"/>
+  <text x="86" y="374" class="h t" font-size="15">Holder register (sample)</text>
+  <g class="t" font-size="13">
+    <text x="86" y="414" class="h">Holder</text><text x="430" y="414" class="h">Share</text><text x="600" y="414" class="h">Remarks</text>
+    <text x="86" y="450">Demo Owner E</text><text x="430" y="450">0.550</text><text x="600" y="450">Recorded holder</text>
+    <text x="86" y="482">Demo Owner F</text><text x="430" y="482">0.300</text><text x="600" y="482" fill="#b45309">Share balance missing (sample)</text>
+    <text x="86" y="514" class="h">Declared total</text><text x="430" y="514" class="h" fill="#b91c1c">0.850</text><text x="600" y="514" fill="#b91c1c">Does not reconcile to 1.000</text>
+  </g>
+  <rect x="64" y="636" width="772" height="112" fill="#fffbeb" stroke="#f59e0b"/>
+  <text x="86" y="668" class="h t" font-size="14" fill="#92400e">Why this sample matters</text>
+  <text x="86" y="696" class="t" font-size="13">The recorded owner shares sum to 85%, not 100%.</text>
+  <text x="86" y="720" class="t" font-size="13">BHŪMI 3D flags this as OWNER_SHARE_MISMATCH for human review.</text>
+  <text x="64" y="820" class="t" font-size="12" fill="#64748b">Synthetic demo document generated for BHŪMI 3D. Not government-issued.</text>
+  <text x="64" y="846" class="t" font-size="12" fill="#64748b">Talathi signature (sample): ______________________   Date: 14/02/2026</text>
+</svg>

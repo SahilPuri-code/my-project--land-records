@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1000" viewBox="0 0 900 1000">
+  <defs><style>.t{font-family:Arial,sans-serif;fill:#1e293b}.h{font-weight:700}.s{font-size:13px}</style></defs>
+  <rect width="900" height="1000" fill="#fff"/>
+  <rect x="0" y="0" width="900" height="90" fill="#0f172a"/>
+  <text x="48" y="46" fill="#fff" class="h t" font-size="24">Field Survey Report — ILLUSTRATIVE</text>
+  <text x="48" y="72" fill="#94a3b8" class="t" font-size="14">BHŪMI 3D prototype · generated sample evidence</text>
+  <text x="48" y="136" class="h t" font-size="16">Survey identification</text>
+  <g class="t s">
+    <text x="48" y="168">Village / Taluka / District</text><text x="320" y="168" class="h">Parbhani / Parbhani / Parbhani</text>
+    <text x="48" y="196">Survey / Subdivision</text><text x="320" y="196" class="h">118 / 2</text>
+    <text x="48" y="224">ULPIN</text><text x="320" y="224">MH-PBN-2026-0118-0002-0001</text>
+    <text x="48" y="252">Survey date</text><text x="320" y="252">02 / 02 / 2026 (sample)</text>
+    <text x="48" y="280">Surveyor</text><text x="320" y="280">Demo Surveyor · certificate no. DEMO-SUR-0042</text>
+  </g>
+  <line x1="48" y1="306" x2="852" y2="306" stroke="#cbd5e1"/>
+  <text x="48" y="342" class="h t" font-size="16">Measurements</text>
+  <rect x="48" y="362" width="804" height="180" fill="#f8fafc" stroke="#cbd5e1"/>
+  <g class="t s">
+    <text x="70" y="394" class="h">Item</text><text x="430" y="394" class="h">Recorded</text><text x="640" y="394" class="h">Observed (sample)</text>
+    <line x1="48" y1="408" x2="852" y2="408" stroke="#e2e8f0"/>
+    <text x="70" y="438">Parcel area</text><text x="430" y="438">1,000 m²</text><text x="640" y="438">1,060 m²</text>
+    <text x="70" y="470">Boundary length</text><text x="430" y="470">148 m</text><text x="640" y="470">157 m</text>
+    <text x="70" y="502">Land use</text><text x="430" y="502">Agricultural</text><text x="640" y="502">Mixed / built-up</text>
+  </g>
+  <rect x="48" y="572" width="804" height="130" fill="#fffbeb" stroke="#f59e0b"/>
+  <text x="70" y="604" class="h t" font-size="15" fill="#92400e">Surveyor observations</text>
+  <text x="70" y="632" class="t s">A G+2 structure was observed within the parcel footprint.</text>
+  <text x="70" y="656" class="t s">The eastern boundary appears extended relative to the older sketch.</text>
+  <text x="70" y="680" class="t s">Recommend officer verification before any record correction.</text>
+  <text x="48" y="754" class="h t" font-size="16">Evidence linkage</text>
+  <g class="t s">
+    <text x="48" y="786">· Drone mosaic (sample) — ground-evidence.svg</text>
+    <text x="48" y="812">· Cadastral sketch (sample) — cadastral-map.svg</text>
+    <text x="48" y="838">· Document SHA-256 recorded on upload</text>
+  </g>
+  <rect x="48" y="884" width="804" height="70" fill="#f1f5f9" stroke="#cbd5e1"/>
+  <text x="70" y="912" class="h t" font-size="13">Demo disclaimer</text>
+  <text x="70" y="934" class="t" font-size="12">This is synthetic sample evidence for the Smart India Hackathon prototype. It is not a real survey report.</text>
+</svg>
